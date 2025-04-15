@@ -1,4 +1,8 @@
+# .dockerignore
 
-node_modules/
-deb
-echo
+data/
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.env
